@@ -9,4 +9,4 @@ main = "index.js"
 [vars]
 AIRTABLE_BASE_ID = "appiakRG3uSt836W9"
 AIRTABLE_TABLE_NAME = "Form Submissions"
-FORM_URL = "https://learnable.health/"
+FORM_URL = "https://learnable.health/contact-request-successful.html"
