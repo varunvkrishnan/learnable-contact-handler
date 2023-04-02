@@ -1,0 +1,11 @@
+{
+  "name": "learnable-contact-handler",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.13.0"
+  },
+  "private": true,
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}

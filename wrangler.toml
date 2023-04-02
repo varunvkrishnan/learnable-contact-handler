@@ -1,0 +1,12 @@
+name = "contact-handler"
+type = "javascript"
+compatibility_date = "2023-04-02"
+
+account_id = "29f3d3272d6babc10c248275b5a02359"
+workers_dev = true
+main = "index.js"
+
+[vars]
+AIRTABLE_BASE_ID = "appiakRG3uSt836W9"
+AIRTABLE_TABLE_NAME = "Form Submissions"
+FORM_URL = "https://learnable.health/"
