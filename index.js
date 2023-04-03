@@ -25,6 +25,7 @@ const submitHandler = async request => {
     const {
         name,
         email,
+        phonenumber,
         subject,
         message
     } = Object.fromEntries(body)
@@ -36,6 +37,7 @@ const submitHandler = async request => {
         fields: {
             "Name": name,
             "Email": email,
+            "Phone": phonenumber,
             "Subject": subject,
             "Message": message
         }
